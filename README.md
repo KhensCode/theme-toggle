@@ -17,7 +17,7 @@ CSS: Styles the interface, enabling the application of different themes.
 
 JavaScript: Implements the theme-switching functionality, allowing dynamic changes to the UI.//
 
-Link{"https://codepen.io/KhensCode/pen/MYgXBpO"}
+Link{https://codepen.io/KhensCode/pen/MYgXBpO}
 Getting Started
 To get a local copy up and running, follow these simple steps:
 
