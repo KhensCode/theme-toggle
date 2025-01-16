@@ -1,7 +1,6 @@
 # theme-toggle
-Theme Changer
-Description
-Theme Changer is a simple and interactive web application that allows users to switch between different themes (Light, Dark, and Dim) for a customizable viewing experience. The project leverages HTML, CSS, and JavaScript to provide an intuitive user interface and dynamic theme-changing functionality.
+
+Theme-toggle is a simple and interactive web application that allows users to switch between different themes (Light, Dark, and Dim) for a customizable viewing experience. The project leverages HTML, CSS, and JavaScript to provide an intuitive user interface and dynamic theme-changing functionality.
 
 Features
 Theme Selection: Users can toggle between Light, Dark, and Dim themes using buttons.
