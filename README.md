@@ -24,9 +24,9 @@ To get a local copy up and running, follow these simple steps:
 Clone the repo
 
 sh
-git clone https://github.com/KhensCode/Theme-Changer.git
+git clone https://github.com/KhensCode/theme-toggle.git
 Open the project folder
 
 sh
-cd Theme-Changer
+cd theme-toggle
 Open the index.html file in your preferred web browser
